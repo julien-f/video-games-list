@@ -1,0 +1,8 @@
+- Control
+- Uncharted 4: A Thief's End
+- God of War
+- Horizon Zero Dawn
+- Detroit: Become Human
+- Marvel's Spider-Man
+- Red Dead Redemption II
+- Death Stranding
