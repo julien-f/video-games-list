@@ -6,4 +6,4 @@
 - Marvel's Spider-Man
 - Red Dead Redemption II
 - Death Stranding
-- Dark Souls
+- Dark Souls: Remastered
