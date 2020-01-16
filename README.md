@@ -7,3 +7,4 @@
 - Red Dead Redemption II
 - Death Stranding
 - Dark Souls: Remastered
+- Star Wars Jedi : Fallen Order
