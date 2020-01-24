@@ -5,3 +5,10 @@
 - Zelda: Link's Awakening
 - Mario + Rabbids: Kingdom Battle
 - Mario Kart 8 Deluxe
+
+# Wanted
+
+- Splatoon 2
+- Super Mario Bros U Deluxe
+- The Touryst
+- Captain Toad: Treasure Tracker
