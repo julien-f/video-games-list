@@ -8,6 +8,7 @@
 
 # Wanted
 
+- Cadence of Hyrule
 - Splatoon 2
 - Super Mario Bros U Deluxe
 - The Touryst
