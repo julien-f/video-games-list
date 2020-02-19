@@ -1,6 +1,7 @@
 # Wanted
 
 - Control
+- Uncharted: The Nathan Drake Collection
 - Uncharted 4: A Thief's End
 - God of War
 - Horizon Zero Dawn
