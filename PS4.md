@@ -11,3 +11,4 @@
 - Death Stranding
 - Dark Souls: Remastered
 - Star Wars Jedi : Fallen Order
+- Titanfall 2
