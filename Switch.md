@@ -18,3 +18,4 @@
 - Mass Effect Trilogy (rumor)
 - Metroid Prime 4 (end of 2020)
 - Diablo 3: Eternal Collection
+- Outer Worlds
