@@ -8,6 +8,7 @@
 - Horizon Zero Dawn
 - Detroit: Become Human
 - Marvel's Spider-Man
+- Prey
 - Red Dead Redemption II
 - Death Stranding
 - Dark Souls: Remastered
