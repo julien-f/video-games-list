@@ -1,5 +1,6 @@
 # Wanted
 
+- Nier: Automata
 - Control
 - Uncharted: The Nathan Drake Collection
 - Uncharted 4: A Thief's End
