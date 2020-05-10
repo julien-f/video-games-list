@@ -11,3 +11,4 @@
 - Risk of Rain 2
 - Ori and the Blind Forest
 - Hollow Knight
+- Limbo & Inside
