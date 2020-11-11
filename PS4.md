@@ -15,4 +15,4 @@
 - Star Wars Jedi : Fallen Order
 - Titanfall 2
 - Journey
-- The Last of 
+- The Last of us
