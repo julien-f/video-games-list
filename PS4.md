@@ -17,3 +17,4 @@
 - Journey
 - The Last of us
 - The Last Guardian
+- The Evil Within
