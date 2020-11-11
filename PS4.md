@@ -16,3 +16,4 @@
 - Titanfall 2
 - Journey
 - The Last of us
+- The Last Guardian
