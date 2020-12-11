@@ -16,5 +16,6 @@
 - Titanfall 2
 - Journey
 - The Last of us
+- The Last of us Part II
 - The Last Guardian
 - The Evil Within
