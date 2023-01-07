@@ -12,8 +12,8 @@
 - Red Dead Redemption II
 - Death Stranding
 - Dark Souls: Remastered
-- Star Wars Jedi : Fallen Order
-- Titanfall 2
+- ~~Star Wars Jedi : Fallen Order~~
+- ~~Titanfall 2~~
 - Journey
 - The Last of us
 - The Last of us Part II
