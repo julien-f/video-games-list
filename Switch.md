@@ -19,3 +19,5 @@
 - Metroid Prime 4 (end of 2020)
 - Diablo 3: Eternal Collection
 - Outer Worlds
+- Xenoblade Chronicles 3 (JRPG)
+- Bayonetta 3 (beat them all)
