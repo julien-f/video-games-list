@@ -8,11 +8,10 @@
 
 # Wanted
 
-- ~~Cadence of Hyrule~~
+- Advanced Wars 1 + 2
 - Splatoon 2
 - Super Mario Bros U Deluxe
 - The Touryst
-- Captain Toad: Treasure Tracker
 - Metro Redux (Feb 28th 2020)
 - BioShock The Collection (TBA)
 - Mass Effect Trilogy (rumor)
@@ -21,3 +20,5 @@
 - Outer Worlds
 - Xenoblade Chronicles 3 (JRPG)
 - Bayonetta 3 (beat them all)
+- ~~Cadence of Hyrule~~
+- ~~Captain Toad: Treasure Tracker~~
