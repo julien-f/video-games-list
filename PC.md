@@ -17,6 +17,7 @@
 
 ## 2023
 
+- Alan Wake 2
 - Final Fantasy XVI
 - Street Fighter VI
 - Resident Evil IV Remake
