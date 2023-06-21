@@ -23,5 +23,7 @@
 - Resident Evil IV Remake
 - System Shock Remake
 - Star Wars Jedi: Survivor
+- Super Mario RPG
+- Super Mario Bros. Wonder
 - ~~Metroid Prime Remastered~~
 - ~~Zelda: Tears of the Kingdom~~
