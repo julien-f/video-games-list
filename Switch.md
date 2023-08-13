@@ -19,6 +19,6 @@
 - Diablo 3: Eternal Collection
 - Outer Worlds
 - Xenoblade Chronicles 3 (JRPG)
-- Bayonetta 3 (beat them all)
+- ~~Bayonetta 3 (beat them all)~~
 - ~~Cadence of Hyrule~~
 - ~~Captain Toad: Treasure Tracker~~
