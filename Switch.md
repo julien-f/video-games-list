@@ -8,7 +8,7 @@
 
 # Wanted
 
-- Advanced Wars 1 + 2
+- Advance Wars 1 + 2
 - Splatoon 2
 - Super Mario Bros U Deluxe
 - The Touryst
