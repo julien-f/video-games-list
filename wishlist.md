@@ -1,10 +1,14 @@
 ## 2024
 
 1. Minishoot' Adventures
+1. Hades II
+1. The Rogue Prince of Persia
 1. No Rest for the Wicked
 1. Balatro
 1. Pacific Drive
 1. The Plucky Squire
+1. Animal Well
+1. Botany Manor
 1. Final Fantasy VII: Rebirth
 1. Tomb Raider Remastered
 1. Pepper Grinder
@@ -20,7 +24,6 @@
 1. Dredge
 1. Dave the Diver
 1. Cosmic Wheel Sisterhood
-1. Star Wars Jedi: Survivor
 1. Viewfinder
 1. Humanity
 1. Harmony: The Fall of Reverie
