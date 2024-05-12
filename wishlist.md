@@ -8,7 +8,7 @@
 1. Pacific Drive
 1. Animal Well
 1. The Plucky Squire
-1. Penny's Big Breakaway
+1. Penny's Big Breakaway ([Digital Foundry](https://www.youtube.com/watch?v=qdNPlk121lk))
 1. Botany Manor
 1. Final Fantasy VII: Rebirth
 1. Tomb Raider Remastered
