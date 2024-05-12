@@ -6,13 +6,13 @@
 1. No Rest for the Wicked
 1. Balatro
 1. Pacific Drive
-1. The Plucky Squire
 1. Animal Well
+1. The Plucky Squire
+1. Penny's Big Breakaway
 1. Botany Manor
 1. Final Fantasy VII: Rebirth
 1. Tomb Raider Remastered
 1. Pepper Grinder
-1. Penny's Big Breakaway
 
 ## 2023
 
