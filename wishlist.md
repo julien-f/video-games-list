@@ -16,7 +16,7 @@
 
 ## 2023
 
-1. Chants of Senaar
+1. Humanity
 1. Astral Ascent
 1. Pikmin 4
 1. Resident Evil IV Remake
@@ -25,7 +25,6 @@
 1. Dave the Diver
 1. Cosmic Wheel Sisterhood
 1. Viewfinder
-1. Humanity
 1. Harmony: The Fall of Reverie
 1. Alan Wake 2
 1. Super Mario RPG
