@@ -2,6 +2,7 @@
 
 1. Minishoot' Adventures
 1. Hades II
+1. Dungeons of Hinterberg (July 18)
 1. The Rogue Prince of Persia
 1. No Rest for the Wicked
 1. Balatro
@@ -9,6 +10,7 @@
 1. Animal Well
 1. The Plucky Squire
 1. Penny's Big Breakaway ([Digital Foundry](https://www.youtube.com/watch?v=qdNPlk121lk))
+1. Replaced
 1. Botany Manor
 1. Final Fantasy VII: Rebirth
 1. Tomb Raider Remastered
