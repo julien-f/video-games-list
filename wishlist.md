@@ -2,9 +2,9 @@
 
 1. Minishoot' Adventures
 1. Hades II
+1. Lorelei and the Laser Eyes ([Origami](https://youtu.be/rDus14qFMSA?t=4727), [Suliven Gaming](https://www.youtube.com/live/LAi4mvWGGZg?t=4987)) (à jouer avec un carnet)
 1. Dungeons of Hinterberg (July 18)
 1. The Rogue Prince of Persia
-1. Lorelei and the Laser Eyes ([Origami](https://youtu.be/rDus14qFMSA?t=4727))
 1. No Rest for the Wicked
 1. Balatro
 1. Pacific Drive
