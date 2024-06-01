@@ -1,5 +1,6 @@
 ## 2024
 
+1. Astro Bot
 1. Minishoot' Adventures
 1. Hades II
 1. Lorelei and the Laser Eyes ([Origami](https://youtu.be/rDus14qFMSA?t=4727), [Suliven Gaming](https://www.youtube.com/live/LAi4mvWGGZg?t=4987)) (à jouer avec un carnet)
