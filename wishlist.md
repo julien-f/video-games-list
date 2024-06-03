@@ -16,7 +16,7 @@
 1. Botany Manor
 1. Final Fantasy VII: Rebirth
 1. Tomb Raider Remastered
-1. Pepper Grinder
+1. Nine Sols
 
 ## 2023
 
