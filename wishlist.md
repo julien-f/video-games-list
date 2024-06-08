@@ -8,6 +8,7 @@
 1. The Rogue Prince of Persia
 1. Bō: Path of the Teal Lotus ([Origami](https://www.youtube.com/watch?v=Oa_jXKhVHL4))
 1. Balatro
+1. 1000xRESIST
 1. No Rest for the Wicked
 1. Pacific Drive
 1. Animal Well
