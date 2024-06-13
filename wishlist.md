@@ -54,7 +54,6 @@
 1. Xenoblade Chronicles 3
 1. Cult of the Lamb
 1. Pokémon Legends: Arceus
-1. Lost in Play
 
 ## 2021
 
