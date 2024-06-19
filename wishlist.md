@@ -1,11 +1,18 @@
+## 2025
+
+1. Metroid Prime 4: Beyond
+1. MIO: Memories in Orbit
+
 ## 2024
 
 1. Astro Bot
+1. The Lgend of Zelda: Echoes of Wisdom
 1. Minishoot' Adventures
 1. Hades II
 1. Lorelei and the Laser Eyes ([Origami](https://youtu.be/rDus14qFMSA?t=4727), [Suliven Gaming](https://www.youtube.com/live/LAi4mvWGGZg?t=4987)) (à jouer avec un carnet)
 1. Dungeons of Hinterberg (July 18)
 1. The Rogue Prince of Persia
+1. Elden Ring: Shadow of the Erdtree ([ExServ](https://www.youtube.com/watch?v=EUTmBVs6lmU))
 1. Bō: Path of the Teal Lotus ([Origami](https://www.youtube.com/watch?v=Oa_jXKhVHL4))
 1. Balatro
 1. 1000xRESIST
