@@ -29,7 +29,6 @@
 
 ## 2023
 
-1. Humanity
 1. Astral Ascent
 1. Pikmin 4
 1. Resident Evil IV Remake
