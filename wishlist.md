@@ -52,12 +52,12 @@
 ## 2022
 
 1. The Case of the Golden Idol
+1. Signalis ([NostalGeek](https://youtu.be/L02GgKKw18E?si=nbLAOVIpXwKQQRzj))
 1. Neon White
-1. Stray
 1. Pentiment
-1. Signalis
 1. Elden Ring
 1. Xenoblade Chronicles 3
+1. Stray
 1. Cult of the Lamb
 1. Pokémon Legends: Arceus
 
