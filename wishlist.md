@@ -6,7 +6,7 @@
 ## 2024
 
 1. Astro Bot
-1. The Lgend of Zelda: Echoes of Wisdom
+1. The Legend of Zelda: Echoes of Wisdom
 1. Hades II
 1. Lorelei and the Laser Eyes ([Origami](https://youtu.be/rDus14qFMSA?t=4727), [Suliven Gaming](https://www.youtube.com/live/LAi4mvWGGZg?t=4987)) (à jouer avec un carnet)
 1. Dungeons of Hinterberg (July 18)
@@ -37,7 +37,6 @@
 1. Viewfinder
 1. Harmony: The Fall of Reverie
 1. Alan Wake 2
-1. Super Mario RPG
 1. A Space for the Unbound
 1. Baldur's Gate 3
 1. Foretales
@@ -51,7 +50,6 @@
 
 1. The Case of the Golden Idol
 1. Signalis ([NostalGeek](https://youtu.be/L02GgKKw18E?si=nbLAOVIpXwKQQRzj))
-1. Neon White
 1. Pentiment
 1. Elden Ring
 1. Xenoblade Chronicles 3
