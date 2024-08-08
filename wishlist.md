@@ -10,7 +10,6 @@
 1. [Duck Detective The Secret Salami](https://store.steampowered.com/app/2637990/Duck_Detective_The_Secret_Salami/)
 1. Hades II
 1. [Lorelei and the Laser Eyes](https://store.steampowered.com/app/2008920/Lorelei_and_the_Laser_Eyes/) ([Origami](https://youtu.be/rDus14qFMSA?t=4727), [Suliven Gaming](https://www.youtube.com/live/LAi4mvWGGZg?t=4987)) (à jouer avec un carnet)
-1. [Dungeons of Hinterberg](https://store.steampowered.com/app/1983260/Dungeons_of_Hinterberg/) (July 18)
 1. The Rogue Prince of Persia
 1. Elden Ring: Shadow of the Erdtree ([ExServ](https://www.youtube.com/watch?v=EUTmBVs6lmU))
 1. [Bō: Path of the Teal Lotus](https://store.steampowered.com/app/1614440/B_Path_of_the_Teal_Lotus/) ([Origami](https://www.youtube.com/watch?v=Oa_jXKhVHL4))
