@@ -51,6 +51,7 @@
 ## 2022
 
 1. The Case of the Golden Idol
+1. [Card Shark](https://store.steampowered.com/app/1371720/Card_Shark/)
 1. Signalis ([NostalGeek](https://youtu.be/L02GgKKw18E?si=nbLAOVIpXwKQQRzj))
 1. Pentiment
 1. Elden Ring
