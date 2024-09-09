@@ -5,7 +5,6 @@
 
 ## 2024
 
-1. Astro Bot
 1. The Legend of Zelda: Echoes of Wisdom
 1. [Duck Detective The Secret Salami](https://store.steampowered.com/app/2637990/Duck_Detective_The_Secret_Salami/)
 1. [The Operator](https://store.steampowered.com/app/1771980/The_Operator/) ([Suliven GAMING](https://www.youtube.com/live/Z8wxMxM0fBY?si=bGFklJfGjNM1qMCs&t=4539)
