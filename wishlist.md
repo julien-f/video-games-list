@@ -5,27 +5,25 @@
 
 ## 2024
 
-1. The Legend of Zelda: Echoes of Wisdom
 1. [Duck Detective The Secret Salami](https://store.steampowered.com/app/2637990/Duck_Detective_The_Secret_Salami/))
 1. [The Operator](https://store.steampowered.com/app/1771980/The_Operator/) ([Suliven GAMING](https://www.youtube.com/live/Z8wxMxM0fBY?si=bGFklJfGjNM1qMCs&t=4539)
 1. [1000xRESIST](https://store.steampowered.com/app/1675830/1000xRESIST/)
 1. [UFO 50](https://store.steampowered.com/app/1147860/UFO_50/)
-1. The Plucky Squire
+1. [Beyond Galaxyland](https://store.steampowered.com/app/1543710/Beyond_Galaxyland/) ([Les Indécrottables](https://www.youtube.com/live/RMACHv3ROwU?si=trNr-bnoIL52iRQX&t=6682))
 1. Hades II
 1. [Lorelei and the Laser Eyes](https://store.steampowered.com/app/2008920/Lorelei_and_the_Laser_Eyes/) ([Origami](https://youtu.be/rDus14qFMSA?t=4727), [Suliven Gaming](https://www.youtube.com/live/LAi4mvWGGZg?t=4987)) (à jouer avec un carnet)
 1. The Rogue Prince of Persia
 1. [Balatro](https://store.steampowered.com/app/2379780/Balatro/)
 1. Elden Ring: Shadow of the Erdtree ([ExServ](https://www.youtube.com/watch?v=EUTmBVs6lmU))
 1. [Bō: Path of the Teal Lotus](https://store.steampowered.com/app/1614440/B_Path_of_the_Teal_Lotus/) ([Origami](https://www.youtube.com/watch?v=Oa_jXKhVHL4))
-1. No Rest for the Wicked
 1. Pacific Drive
 1. [Animal Well](https://store.steampowered.com/app/813230/ANIMAL_WELL/)
 1. [Penny's Big Breakaway](https://store.steampowered.com/app/1955230/Pennys_Big_Breakaway/) ([Digital Foundry](https://www.youtube.com/watch?v=qdNPlk121lk))
 1. [Replaced](https://store.steampowered.com/app/1663850/REPLACED/)
 1. [Botany Manor](https://store.steampowered.com/app/1425350/Botany_Manor/)
-1. Final Fantasy VII: Rebirth
-1. Tomb Raider Remastered
 1. Nine Sols ([ExServ](https://youtu.be/1UysLhMsSTc))
+1. [The Plucky Squire](https://en.wikipedia.org/wiki/The_Plucky_Squire)
+1. No Rest for the Wicked
 
 ## 2023
 
