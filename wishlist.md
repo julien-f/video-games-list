@@ -29,6 +29,7 @@
 
 ## 2023
 
+1. [Slay the Princess](https://store.steampowered.com/app/1989270/Slay_the_Princess__The_Pristine_Cut/)
 1. The Wreck
 1. Pikmin 4
 1. Astral Ascent
