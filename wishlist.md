@@ -60,7 +60,6 @@
 1. Elden Ring
 1. Xenoblade Chronicles 3
 1. Stray
-1. Cult of the Lamb
 1. Pokémon Legends: Arceus
 
 ## 2021
