@@ -5,7 +5,6 @@
 
 ## 2024
 
-1. [Duck Detective The Secret Salami](https://store.steampowered.com/app/2637990/Duck_Detective_The_Secret_Salami/)
 1. [Neva](https://store.steampowered.com/app/2420660/Neva/) ([Silence on joue !](https://open.spotify.com/episode/4eY4JKja2Y3GOIVl0LZGIf?si=16Awnj6lQTuXfcjhCL_P0Q&t=1691&pi=AYBUgfyeQBm0Q))
 1. [Isles of Sea and Sky](https://store.steampowered.com/app/1233070/Isles_of_Sea_and_Sky/) ([Game Maker's Toolkit](https://youtu.be/VD9TX9qGQOo))
 1. [The Operator](https://store.steampowered.com/app/1771980/The_Operator/) ([Suliven GAMING](https://www.youtube.com/live/Z8wxMxM0fBY?si=bGFklJfGjNM1qMCs&t=4539))
