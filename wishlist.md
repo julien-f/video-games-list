@@ -5,6 +5,7 @@
 
 ## 2024
 
+1. [Indiana Jones and the Great Circle](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Great_Circle)
 1. [Neva](https://store.steampowered.com/app/2420660/Neva/) ([Silence on joue !](https://open.spotify.com/episode/4eY4JKja2Y3GOIVl0LZGIf?si=16Awnj6lQTuXfcjhCL_P0Q&t=1691&pi=AYBUgfyeQBm0Q))
 1. [Isles of Sea and Sky](https://store.steampowered.com/app/1233070/Isles_of_Sea_and_Sky/) ([Game Maker's Toolkit](https://youtu.be/VD9TX9qGQOo))
 1. [The Operator](https://store.steampowered.com/app/1771980/The_Operator/) ([Suliven GAMING](https://www.youtube.com/live/Z8wxMxM0fBY?si=bGFklJfGjNM1qMCs&t=4539))
@@ -33,7 +34,6 @@
 ## 2023
 
 1. [Slay the Princess](https://store.steampowered.com/app/1989270/Slay_the_Princess__The_Pristine_Cut/)
-1. The Wreck
 1. Pikmin 4
 1. Astral Ascent
 1. Resident Evil IV Remake
@@ -54,7 +54,6 @@
 
 ## 2022
 
-1. The Case of the Golden Idol
 1. [Card Shark](https://store.steampowered.com/app/1371720/Card_Shark/)
 1. Signalis ([NostalGeek](https://youtu.be/L02GgKKw18E?si=nbLAOVIpXwKQQRzj))
 1. Pentiment
@@ -69,5 +68,4 @@
 1. Inscryption
 1. Elechead
 1. [UNSIGHTED](https://store.steampowered.com/app/1062110/UNSIGHTED/)
-1. Toem
 1. Wildermyth
