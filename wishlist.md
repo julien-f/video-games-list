@@ -6,14 +6,14 @@
 ## 2024
 
 1. [Indiana Jones and the Great Circle](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Great_Circle)
+1. [The Operator](https://store.steampowered.com/app/1771980/The_Operator/) ([Suliven GAMING](https://www.youtube.com/live/Z8wxMxM0fBY?si=bGFklJfGjNM1qMCs&t=4539))
+1. [1000xRESIST](https://store.steampowered.com/app/1675830/1000xRESIST/)
+1. [The Holy Gosh Darn](https://store.steampowered.com/app/1466230/The_Holy_Gosh_Darn/) ([Origami](https://www.youtube.com/watch?v=ugX5Xy0kAV0&t=859s))
 1. [Silent Hill 2](https://en.wikipedia.org/wiki/Silent_Hill_2_(2024_video_game))
 1. [Neva](https://store.steampowered.com/app/2420660/Neva/) ([Silence on joue !](https://open.spotify.com/episode/4eY4JKja2Y3GOIVl0LZGIf?si=16Awnj6lQTuXfcjhCL_P0Q&t=1691&pi=AYBUgfyeQBm0Q))
 1. [Isles of Sea and Sky](https://store.steampowered.com/app/1233070/Isles_of_Sea_and_Sky/) ([Game Maker's Toolkit](https://youtu.be/VD9TX9qGQOo))
-1. [The Operator](https://store.steampowered.com/app/1771980/The_Operator/) ([Suliven GAMING](https://www.youtube.com/live/Z8wxMxM0fBY?si=bGFklJfGjNM1qMCs&t=4539))
 1. [Windblown](https://store.steampowered.com/app/1911610/Windblown/) ([At0mium](https://youtu.be/HfLUnWXRmig), [ExServ](https://www.youtube.com/watch?v=0-L3Eg6ukFE)))
-1. [1000xRESIST](https://store.steampowered.com/app/1675830/1000xRESIST/)
 1. [Lorelei and the Laser Eyes](https://store.steampowered.com/app/2008920/Lorelei_and_the_Laser_Eyes/) ([Origami](https://youtu.be/rDus14qFMSA?t=4727), [Suliven Gaming](https://www.youtube.com/live/LAi4mvWGGZg?t=4987)) (à jouer avec un carnet)
-1. [The Holy Gosh Darn](https://store.steampowered.com/app/1466230/The_Holy_Gosh_Darn/) ([Origami](https://www.youtube.com/watch?v=ugX5Xy0kAV0&t=859s))
 1. [UFO 50](https://store.steampowered.com/app/1147860/UFO_50/)
 1. [Beyond Galaxyland](https://store.steampowered.com/app/1543710/Beyond_Galaxyland/) ([Les Indécrottables](https://www.youtube.com/live/RMACHv3ROwU?si=trNr-bnoIL52iRQX&t=6682))
 1. Hades II
