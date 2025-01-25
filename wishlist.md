@@ -9,6 +9,7 @@
 1. [Mouthwashing](https://en.wikipedia.org/wiki/Mouthwashing_(video_game))
 1. [The Operator](https://store.steampowered.com/app/1771980/The_Operator/) ([Suliven GAMING](https://www.youtube.com/live/Z8wxMxM0fBY?si=bGFklJfGjNM1qMCs&t=4539))
 1. [1000xRESIST](https://store.steampowered.com/app/1675830/1000xRESIST/)
+1. [Crow Country](https://store.steampowered.com/app/1996010/Crow_Country/)
 1. [The Holy Gosh Darn](https://store.steampowered.com/app/1466230/The_Holy_Gosh_Darn/) ([Origami](https://www.youtube.com/watch?v=ugX5Xy0kAV0&t=859s))
 1. [Silent Hill 2](https://en.wikipedia.org/wiki/Silent_Hill_2_(2024_video_game))
 1. [Neva](https://store.steampowered.com/app/2420660/Neva/) ([Silence on joue !](https://open.spotify.com/episode/4eY4JKja2Y3GOIVl0LZGIf?si=16Awnj6lQTuXfcjhCL_P0Q&t=1691&pi=AYBUgfyeQBm0Q))
