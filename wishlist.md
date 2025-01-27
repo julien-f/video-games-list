@@ -1,5 +1,6 @@
 ## 2025
 
+1. [Dynasty Warriors: Origins](https://en.wikipedia.org/wiki/Dynasty_Warriors:_Origins)
 1. Metroid Prime 4: Beyond
 1. MIO: Memories in Orbit
 
