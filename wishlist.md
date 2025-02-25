@@ -1,5 +1,6 @@
 ## 2025
 
+1. [Blue Prince](https://store.steampowered.com/app/1569580/Blue_Prince/)
 1. [Dune: Awakening](https://store.steampowered.com/app/1172710/Dune_Awakening/)
 1. [Dynasty Warriors: Origins](https://en.wikipedia.org/wiki/Dynasty_Warriors:_Origins)
 1. Metroid Prime 4: Beyond
