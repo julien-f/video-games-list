@@ -1,10 +1,17 @@
 ## 2025
 
-1. [Blue Prince](https://store.steampowered.com/app/1569580/Blue_Prince/)
 1. [Dune: Awakening](https://store.steampowered.com/app/1172710/Dune_Awakening/)
 1. [Dynasty Warriors: Origins](https://en.wikipedia.org/wiki/Dynasty_Warriors:_Origins)
-1. Metroid Prime 4: Beyond
-1. MIO: Memories in Orbit
+1. [Metroid Prime 4: Beyond](https://en.wikipedia.org/wiki/Metroid_Prime_4:_Beyond)
+1. [Donkey Kong Bananza](https://en.wikipedia.org/wiki/Donkey_Kong_Bananza)
+1. [Mario Kart World](https://en.wikipedia.org/wiki/Mario_Kart_World)
+1. [The Midnight Walk](https://en.wikipedia.org/wiki/The_Midnight_Walk) ([Monsieur Toc](https://www.youtube.com/watch?v=DdfDiha1CGI))
+1. [MIO: Memories in Orbit](https://en.wikipedia.org/wiki/Mio:_Memories_in_Orbit)
+1. [Wanderstop](https://en.wikipedia.org/wiki/Wanderstop)
+1. [Avowed](https://en.wikipedia.org/wiki/Avowed)
+1. [South of Midnight](https://en.wikipedia.org/wiki/South_of_Midnight)
+1. [Assassin's Creed Shadows](https://en.wikipedia.org/wiki/Assassin%27s_Creed_Shadows)
+1. [The Roottrees are Dead](https://en.wikipedia.org/wiki/The_Roottrees_are_Dead)
 
 ## 2024
 
