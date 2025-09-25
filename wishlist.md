@@ -1,5 +1,7 @@
 ## 2025
 
+1. [Ghost of Yōtei](https://en.wikipedia.org/wiki/Ghost_of_Y%C5%8Dtei) ([Ex Serv](https://www.youtube.com/watch?v=tCPeU6XqA5I))
+1. [Hades II](https://en.wikipedia.org/wiki/Hades_II)
 1. [Old Skies](https://store.steampowered.com/app/1346360/Old_Skies/)
 1. [The Midnight Walk](https://en.wikipedia.org/wiki/The_Midnight_Walk) ([Monsieur Toc](https://www.youtube.com/watch?v=DdfDiha1CGI))
 1. [Many Nights a Whisper](https://store.steampowered.com/app/3541130/Many_Nights_a_Whisper/)
@@ -26,7 +28,6 @@
 1. [UFO 50](https://store.steampowered.com/app/1147860/UFO_50/)
 1. [Beyond Galaxyland](https://store.steampowered.com/app/1543710/Beyond_Galaxyland/) ([Les Indécrottables](https://www.youtube.com/live/RMACHv3ROwU?si=trNr-bnoIL52iRQX&t=6682))
 1. [Nine Sols](https://en.wikipedia.org/wiki/Nine_Sols) ([ExServ](https://youtu.be/1UysLhMsSTc))
-1. Hades II
 1. [Windblown](https://store.steampowered.com/app/1911610/Windblown/) ([ExServ](https://youtu.be/0-L3Eg6ukFE))
 1. The Rogue Prince of Persia
 1. [Balatro](https://store.steampowered.com/app/2379780/Balatro/)
