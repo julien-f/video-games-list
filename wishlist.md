@@ -18,11 +18,8 @@
 
 ## 2024
 
-1. [Mouthwashing](https://en.wikipedia.org/wiki/Mouthwashing_(video_game))
-1. [1000xRESIST](https://store.steampowered.com/app/1675830/1000xRESIST/)
 1. [Crow Country](https://store.steampowered.com/app/1996010/Crow_Country/)
 1. [Silent Hill 2](https://en.wikipedia.org/wiki/Silent_Hill_2_(2024_video_game))
-1. [Neva](https://store.steampowered.com/app/2420660/Neva/) ([Silence on joue !](https://open.spotify.com/episode/4eY4JKja2Y3GOIVl0LZGIf?si=16Awnj6lQTuXfcjhCL_P0Q&t=1691&pi=AYBUgfyeQBm0Q))
 1. [Isles of Sea and Sky](https://store.steampowered.com/app/1233070/Isles_of_Sea_and_Sky/) ([Game Maker's Toolkit](https://youtu.be/VD9TX9qGQOo))
 1. [Windblown](https://store.steampowered.com/app/1911610/Windblown/) ([At0mium](https://youtu.be/HfLUnWXRmig), [ExServ](https://www.youtube.com/watch?v=0-L3Eg6ukFE)))
 1. [Lorelei and the Laser Eyes](https://store.steampowered.com/app/2008920/Lorelei_and_the_Laser_Eyes/) ([Origami](https://youtu.be/rDus14qFMSA?t=4727), [Suliven Gaming](https://www.youtube.com/live/LAi4mvWGGZg?t=4987)) (à jouer avec un carnet)
@@ -30,7 +27,6 @@
 1. [Beyond Galaxyland](https://store.steampowered.com/app/1543710/Beyond_Galaxyland/) ([Les Indécrottables](https://www.youtube.com/live/RMACHv3ROwU?si=trNr-bnoIL52iRQX&t=6682))
 1. [Nine Sols](https://en.wikipedia.org/wiki/Nine_Sols) ([ExServ](https://youtu.be/1UysLhMsSTc))
 1. [Windblown](https://store.steampowered.com/app/1911610/Windblown/) ([ExServ](https://youtu.be/0-L3Eg6ukFE))
-1. The Rogue Prince of Persia
 1. [Balatro](https://store.steampowered.com/app/2379780/Balatro/)
 1. Elden Ring: Shadow of the Erdtree ([ExServ](https://www.youtube.com/watch?v=EUTmBVs6lmU))
 1. [Bō: Path of the Teal Lotus](https://store.steampowered.com/app/1614440/B_Path_of_the_Teal_Lotus/) ([Origami](https://www.youtube.com/watch?v=Oa_jXKhVHL4))
@@ -58,7 +54,6 @@
 1. System Shock Remake
 1. Final Fantasy XVI
 1. Street Fighter VI
-1. Tron Identity
 
 ## 2022
 
