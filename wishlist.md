@@ -4,8 +4,6 @@
 1. [Shinobi: Art of Vengeance](https://en.wikipedia.org/wiki/Shinobi:_Art_of_Vengeance)
 1. [Silent Hill f](https://en.wikipedia.org/wiki/Silent_Hill_f)
 1. [Ghost of Yōtei](https://en.wikipedia.org/wiki/Ghost_of_Y%C5%8Dtei) ([Ex Serv](https://www.youtube.com/watch?v=tCPeU6XqA5I))
-1. [Hades II](https://en.wikipedia.org/wiki/Hades_II)
-1. [Old Skies](https://store.steampowered.com/app/1346360/Old_Skies/)
 1. [Many Nights a Whisper](https://store.steampowered.com/app/3541130/Many_Nights_a_Whisper/)
 1. [Metroid Prime 4: Beyond](https://en.wikipedia.org/wiki/Metroid_Prime_4:_Beyond)
 1. [MIO: Memories in Orbit](https://en.wikipedia.org/wiki/Mio:_Memories_in_Orbit)
@@ -29,13 +27,11 @@
 1. [Nine Sols](https://en.wikipedia.org/wiki/Nine_Sols) ([ExServ](https://youtu.be/1UysLhMsSTc))
 1. [Balatro](https://store.steampowered.com/app/2379780/Balatro/)
 1. Elden Ring: Shadow of the Erdtree ([ExServ](https://www.youtube.com/watch?v=EUTmBVs6lmU))
-1. [Bō: Path of the Teal Lotus](https://store.steampowered.com/app/1614440/B_Path_of_the_Teal_Lotus/) ([Origami](https://www.youtube.com/watch?v=Oa_jXKhVHL4))
 1. Pacific Drive
 1. [Animal Well](https://store.steampowered.com/app/813230/ANIMAL_WELL/)
 1. [Penny's Big Breakaway](https://store.steampowered.com/app/1955230/Pennys_Big_Breakaway/) ([Digital Foundry](https://www.youtube.com/watch?v=qdNPlk121lk))
 1. [Replaced](https://store.steampowered.com/app/1663850/REPLACED/)
 1. [Botany Manor](https://store.steampowered.com/app/1425350/Botany_Manor/)
-1. [The Plucky Squire](https://en.wikipedia.org/wiki/The_Plucky_Squire)
 1. [No Rest for the Wicked](https://en.wikipedia.org/wiki/No_Rest_for_the_Wicked_(video_game))
 1. [30 Birds](https://store.steampowered.com/app/1708770/30_Birds/) ([At0mium](https://youtu.be/0Q6dDfh8o8o?))
 
@@ -66,6 +62,5 @@
 ## 2021
 
 1. Returnal
-1. Elechead
 1. [UNSIGHTED](https://store.steampowered.com/app/1062110/UNSIGHTED/)
 1. Wildermyth
