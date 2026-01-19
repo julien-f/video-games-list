@@ -1,12 +1,11 @@
 ## 2025
 
-1. [Goodnight Universe](https://store.steampowered.com/app/2416100/Goodnight_Universe/) (follow-up of Before Your Eyes)
+1. [MIO: Memories in Orbit](https://en.wikipedia.org/wiki/Mio:_Memories_in_Orbit) ([Ex Serv](https://youtu.be/F17GT8BFEgw))
 1. [Shinobi: Art of Vengeance](https://en.wikipedia.org/wiki/Shinobi:_Art_of_Vengeance)
 1. [Silent Hill f](https://en.wikipedia.org/wiki/Silent_Hill_f)
 1. [Ghost of Yōtei](https://en.wikipedia.org/wiki/Ghost_of_Y%C5%8Dtei) ([Ex Serv](https://www.youtube.com/watch?v=tCPeU6XqA5I))
 1. [Many Nights a Whisper](https://store.steampowered.com/app/3541130/Many_Nights_a_Whisper/)
 1. [Metroid Prime 4: Beyond](https://en.wikipedia.org/wiki/Metroid_Prime_4:_Beyond)
-1. [MIO: Memories in Orbit](https://en.wikipedia.org/wiki/Mio:_Memories_in_Orbit)
 1. [Wanderstop](https://en.wikipedia.org/wiki/Wanderstop)
 1. [Avowed](https://en.wikipedia.org/wiki/Avowed)
 1. [Dune: Awakening](https://store.steampowered.com/app/1172710/Dune_Awakening/)
