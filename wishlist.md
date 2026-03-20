@@ -1,5 +1,6 @@
 ## 2025
 
+1. [Esoteric Ebb](https://store.steampowered.com/app/2057760/Esoteric_Ebb/)
 1. [Cairn](https://www.thegamebakers.com/cairn/)
 1. [MIO: Memories in Orbit](https://en.wikipedia.org/wiki/Mio:_Memories_in_Orbit) ([Ex Serv](https://youtu.be/F17GT8BFEgw))
 1. [Shinobi: Art of Vengeance](https://en.wikipedia.org/wiki/Shinobi:_Art_of_Vengeance)
