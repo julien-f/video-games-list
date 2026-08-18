@@ -1,17 +1,24 @@
+## 2026
+
+1. Pragmata
+1. 007 First Light
+1. [Esoteric Ebb](https://store.steampowered.com/app/2057760/Esoteric_Ebb/)
+1. Big Walk
+1. [Cairn](https://www.thegamebakers.com/cairn/)
+1. Mina the Hollower
+1. Saros
+1. Pokémon Pokopia
+1. Resident Evil Requiem
+
 ## 2025
 
-1. [Esoteric Ebb](https://store.steampowered.com/app/2057760/Esoteric_Ebb/)
-1. [Cairn](https://www.thegamebakers.com/cairn/)
-1. [MIO: Memories in Orbit](https://en.wikipedia.org/wiki/Mio:_Memories_in_Orbit) ([Ex Serv](https://youtu.be/F17GT8BFEgw))
 1. [Shinobi: Art of Vengeance](https://en.wikipedia.org/wiki/Shinobi:_Art_of_Vengeance)
 1. [Silent Hill f](https://en.wikipedia.org/wiki/Silent_Hill_f)
 1. [Ghost of Yōtei](https://en.wikipedia.org/wiki/Ghost_of_Y%C5%8Dtei) ([Ex Serv](https://www.youtube.com/watch?v=tCPeU6XqA5I))
-1. [Many Nights a Whisper](https://store.steampowered.com/app/3541130/Many_Nights_a_Whisper/)
 1. [Metroid Prime 4: Beyond](https://en.wikipedia.org/wiki/Metroid_Prime_4:_Beyond)
 1. [Avowed](https://en.wikipedia.org/wiki/Avowed)
 1. [Dune: Awakening](https://store.steampowered.com/app/1172710/Dune_Awakening/)
 1. [Dynasty Warriors: Origins](https://en.wikipedia.org/wiki/Dynasty_Warriors:_Origins)
-1. [South of Midnight](https://en.wikipedia.org/wiki/South_of_Midnight)
 1. [Assassin's Creed Shadows](https://en.wikipedia.org/wiki/Assassin%27s_Creed_Shadows)
 1. [The Roottrees are Dead](https://en.wikipedia.org/wiki/The_Roottrees_are_Dead)
 
