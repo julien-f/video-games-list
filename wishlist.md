@@ -1,5 +1,12 @@
+## 2027
+
+1. [Metroid Ravenous](https://en.wikipedia.org/wiki/Metroid_Ravenous)
+1. [Kirby and the World Beyond](https://en.wikipedia.org/wiki/Kirby_and_the_World_Beyond)
+
 ## 2026
 
+1. [The Legend of Zelda: Ocarina of Time](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time_(2026_video_game))
+1. [Castlevania: Belmont's Curse](https://en.wikipedia.org/wiki/Castlevania:_Belmont%27s_Curse)
 1. Pragmata
 1. 007 First Light
 1. [Esoteric Ebb](https://store.steampowered.com/app/2057760/Esoteric_Ebb/)
@@ -15,7 +22,6 @@
 1. [Shinobi: Art of Vengeance](https://en.wikipedia.org/wiki/Shinobi:_Art_of_Vengeance)
 1. [Silent Hill f](https://en.wikipedia.org/wiki/Silent_Hill_f)
 1. [Ghost of Yōtei](https://en.wikipedia.org/wiki/Ghost_of_Y%C5%8Dtei) ([Ex Serv](https://www.youtube.com/watch?v=tCPeU6XqA5I))
-1. [Metroid Prime 4: Beyond](https://en.wikipedia.org/wiki/Metroid_Prime_4:_Beyond)
 1. [Avowed](https://en.wikipedia.org/wiki/Avowed)
 1. [Dune: Awakening](https://store.steampowered.com/app/1172710/Dune_Awakening/)
 1. [Dynasty Warriors: Origins](https://en.wikipedia.org/wiki/Dynasty_Warriors:_Origins)
